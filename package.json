@@ -1,0 +1,30 @@
+{
+  "name": "food-recipe-mern-stack",
+  "version": "1.0.0",
+  "description": "this project help us to make food recipes by this project we prepare the food as the app instructions for this project they easy our work",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ayesha": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarabishaik347/Food-recipe-mern-stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sarabishaik347/Food-recipe-mern-stack/issues"
+  },
+  "homepage": "https://github.com/sarabishaik347/Food-recipe-mern-stack#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
